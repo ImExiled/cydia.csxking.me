@@ -1,3 +1,17 @@
+Package: co.dynastic.TSSsaver
+Name: TSS Saver
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
+Maintainer: nullpixel <jamie@dynastic.co>
+Author: nullpixel <jamie@dynastic.co>
+Section: Utilities
+MD5sum: 
+Size: 7071678
+Filename: debs/co.dynastic.TSSsaver.deb
+Depiction: https://cydia.csxking.me/depictions/?p=co.dynastic.tsssaver
+
 Package: com.jake0oo0.instamute
 Name: InstaMute
 Depends: mobilesubstrate
